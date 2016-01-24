@@ -38,6 +38,8 @@ gem 'twitter-bootstrap-rails'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
+  # Include rspec for testing
+  gem 'rspec-rails', '~> 3.0'
 end
 
 group :development do
