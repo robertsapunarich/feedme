@@ -1,4 +1,4 @@
-*FEEDME
+*FEEDME*
 
 Thought I would make an RSS reader for myself because it sounded fun. Followed [this tutorial](http://www.sitepoint.com/building-an-rss-reader-in-rails-is-easy/).
 
